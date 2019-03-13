@@ -42,7 +42,3 @@ At the end of this hands-on lab, you will be better able to build an IoT solutio
 ## Azure solution
 
 Internet of Things
-
-## Related references
-
-[MCW](https://github.com/Microsoft/MCW)
